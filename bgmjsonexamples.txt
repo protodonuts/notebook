@@ -83,6 +83,6 @@
         "90":......
 
 
-/json/search-cv_person-(anime|book|music|game|real)/${URIencoded_searching_keyword_for person}?character_id=${character_id}
+/json/search-cv_person-(anime|book|music|game|real)/${URIencoded_searching_keyword_for_person}?character_id=${character_id}
 
 /ajax/buddy_search
