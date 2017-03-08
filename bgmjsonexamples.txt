@@ -82,7 +82,11 @@
         },
         "90":......
 
+/json/search-character-(anime|book|music|game|real)/${URIencoded_searching_keyword}
+/* same as above, but with "relatSubject",a list of subjects of a certain type(anime / book...), that are related to the character. */
 
 /json/search-cv_person-(anime|book|music|game|real)/${URIencoded_searching_keyword_for_person}?character_id=${character_id}
+/* not quite useful. return person list, with "relatSubejct" of the character. */
 
 /ajax/buddy_search
+/* login required. */
