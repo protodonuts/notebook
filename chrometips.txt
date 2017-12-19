@@ -3,7 +3,7 @@ customize user agent
 rendering monitor
   ...... -> More tools -> Rendering
 regex full text search
-  Ctrl + Shift + F
+  (In DevTool Panel) Ctrl + Shift + F
   ...... -> More tools -> Search -> Regular expression
 dark theme
   F12 -> ... -> Settings -> Prefernces -> Appearance -> Theme -> Dark
